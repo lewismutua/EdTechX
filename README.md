@@ -18,10 +18,7 @@
 <br>
 
 ## Projeto
-
-Desenvolvimento de uma tabela periódica interativa de elementos químicos usando HTML, CSS e JavaScript. Esta versão apresenta um design responsivo e atrativo, enriquecido com animações suaves e recursos de filtro para cada elemento químico, proporcionando uma experiência envolvente e educativa.
-
-Para visualizar e utilizar a tabela periódica, <a href="https://periodic-table-of-elements.vercel.app/" target="_blank">clique aqui</a>.
+xplore the elements like never before! Our interactive 3D periodic table allows users to select elements and visualize real-time chemical reactions with dynamic animations. Witness how elements interact, form compounds, and observe reaction effects in an engaging virtual environment. Perfect for students, educators, and chemistry enthusiasts <a href="https://periodic-table-of-elements.vercel.app/" target="_blank">clique aqui</a>.
 
 <br/>
 
